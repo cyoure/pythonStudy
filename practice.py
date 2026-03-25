@@ -12,3 +12,12 @@ print('풍선')
 print("나비")
 print("zzz")
 print("z"*3)
+
+# boolean -> 참과 거짓
+print(5>10)
+print(5<10)
+print(True)
+print(False)
+print(not True)
+print(not False)
+print(not (5>10)) # not False == True
